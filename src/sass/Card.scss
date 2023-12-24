@@ -7,10 +7,10 @@
   flex-direction: column;
   margin: auto;
   padding: 1.5rem 1.5rem 3rem 1.5rem;
+  position: relative;
   row-gap: 1.5rem;
   text-align: center;
-  width: clamp(15rem, 70%, 26rem);
-  position: relative;
+  width: clamp(15rem, 80%, 30rem);
 
   .title {
     color: $neon-green;
